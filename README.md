@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/df2da949f5d345d09949a0e3278b519b)](https://app.codacy.com/gh/rshajib/StringCounter?utm_source=github.com&utm_medium=referral&utm_content=rshajib/StringCounter&utm_campaign=Badge_Grade_Settings)
+
 You can use the [editor on GitHub](https://github.com/rayShajib/StringCounter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
